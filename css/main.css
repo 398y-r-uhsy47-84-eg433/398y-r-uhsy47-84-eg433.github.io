@@ -52,18 +52,22 @@ body {
 a:link {
     color: #0074D9;
     text-decoration: underline;
+    text-decoration-color: #0074D9;
     }
 a:visited {
     color: #0074D9;
     text-decoration: underline;
+    text-decoration-color: #0074D9;
     }
 a:hover {
     color: #00284b;
     text-decoration: underline;
+    text-decoration-color: #00284b;
     }
 a:active {
     color: #00284b;
     text-decoration: underline;
+    text-decoration-color: #00284b;
     }
 
 h1 {
